@@ -1,0 +1,17 @@
+ul {
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.sidepanel-container {
+    min-height: 80vw;
+}
+
+.sidelist {
+    color: black;
+}

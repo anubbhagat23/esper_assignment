@@ -1,0 +1,19 @@
+.loginScreen {
+    background-color: rgb(7, 71, 166);
+    position: absolute;
+    width: 100%;
+    margin: 0 auto;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.login_container {
+    display: flex;
+    justify-content: center;
+    padding: 40px 10px;
+    background-color: #fff;
+}

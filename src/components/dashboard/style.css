@@ -1,0 +1,13 @@
+.sidePanel-container {
+    width: 250px;
+    position: fixed;
+}
+
+.right-containt {
+    width: calc(100% - 270px);
+    margin-left: 260px;
+}
+
+/* .component-content {
+    margin-top: 70px;
+} */
